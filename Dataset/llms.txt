@@ -1,0 +1,90 @@
+# JTI - Modul Praktikum Pembelajaran Mesin 2025/2026
+
+## JTI - Modul Praktikum Pembelajaran Mesin 2025/2026
+
+- [Selamat Datang!](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/selamat-datang.md): RTI235004 - Pembelajaran Mesin
+- [JS01 - Pengenalan Pembelajaran Mesin](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js01-pengenalan-pembelajaran-mesin.md)
+- [Konsep Dasar](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js01-pengenalan-pembelajaran-mesin/konsep-dasar.md)
+- [Etika dan Tantangan](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js01-pengenalan-pembelajaran-mesin/etika-dan-tantangan.md): Responsible AI
+- [Praktikum 1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js01-pengenalan-pembelajaran-mesin/praktikum-1.md): Instalasi Perangkat
+- [Tugas Praktikum 1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js01-pengenalan-pembelajaran-mesin/tugas-praktikum-1.md)
+- [Tugas Pendahuluan JS02](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js01-pengenalan-pembelajaran-mesin/tugas-pendahuluan-js02.md): Take Home
+- [JS02 - Pemahaman Data dan Pra Pengolahan Data](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js02-pemahaman-data-dan-pra-pengolahan-data.md)
+- [Rekognisi, Pola, dan Pengenalan Pola](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js02-pemahaman-data-dan-pra-pengolahan-data/rekognisi-pola-dan-pengenalan-pola.md): Recognition, Pattern, and Pattern Recognition
+- [Jenis-Jenis Data](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js02-pemahaman-data-dan-pra-pengolahan-data/jenis-jenis-data.md): Perspektif Statistika dan Bentuk Data
+- [Exploratory Data Analysis (EDA)](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js02-pemahaman-data-dan-pra-pengolahan-data/exploratory-data-analysis-eda.md)
+- [Pra Pengolahan Data](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js02-pemahaman-data-dan-pra-pengolahan-data/pra-pengolahan-data.md)
+- [Praktikum 1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js02-pemahaman-data-dan-pra-pengolahan-data/praktikum-1.md): Exploratory Data Analysis (EDA)
+- [Praktikum 2](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js02-pemahaman-data-dan-pra-pengolahan-data/praktikum-2.md): Pra Pengolahan Data - Data Terstruktur
+- [Praktikum 3](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js02-pemahaman-data-dan-pra-pengolahan-data/praktikum-3.md): (Sekilas) Seleksi Fitur, Encoding, dan Standardisasi
+- [Praktikum 4](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js02-pemahaman-data-dan-pra-pengolahan-data/praktikum-4.md): Pra Pengolahan Data - Data Tidak Terstruktur
+- [Tugas Praktikum](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js02-pemahaman-data-dan-pra-pengolahan-data/tugas-praktikum.md): Wisconsin Breast Cancer
+- [JS03 - Ektraksi Fitur](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js03-ektraksi-fitur.md): Target Capaian Pembelajaran
+- [Teori Dasar](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js03-ektraksi-fitur/teori-dasar.md)
+- [Praktikum 1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js03-ektraksi-fitur/praktikum-1.md): Pra Pengolahan Data - Ektraksi Fitur (Data Terstruktur)
+- [Praktikum 2](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js03-ektraksi-fitur/praktikum-2.md): Pra Pengolahan Data - Seleksi Fitur
+- [Praktikum 3](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js03-ektraksi-fitur/praktikum-3.md): Spliting Data
+- [Praktikum 4](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js03-ektraksi-fitur/praktikum-4.md): Ekstraksi Fitur Data Tidak Terstruktur
+- [Tugas Praktikum](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js03-ektraksi-fitur/tugas-praktikum.md): Wisconsin Breast Cancer
+- [JS04 - Klasterisasi](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js04-klasterisasi.md)
+- [Konsep Dasar](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js04-klasterisasi/konsep-dasar.md)
+- [K-Means Clustering](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js04-klasterisasi/k-means-clustering.md)
+- [DBSCAN Clustering](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js04-klasterisasi/dbscan-clustering.md): DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+- [Praktikum 1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js04-klasterisasi/praktikum-1.md)
+- [Praktikum 2](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js04-klasterisasi/praktikum-2.md)
+- [Praktikum 3](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js04-klasterisasi/praktikum-3.md)
+- [Tugas Praktikum](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js04-klasterisasi/tugas-praktikum.md)
+- [JS05 - Klasterisasi Hierarki](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js05-klasterisasi-hierarki.md)
+- [Klasterisasi Hierarki](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js05-klasterisasi-hierarki/klasterisasi-hierarki.md)
+- [HDBSCAN](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js05-klasterisasi-hierarki/hdbscan.md)
+- [Evaluasi Clustering](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js05-klasterisasi-hierarki/evaluasi-clustering.md)
+- [Praktikum 1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js05-klasterisasi-hierarki/praktikum-1.md)
+- [Praktikum 2](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js05-klasterisasi-hierarki/praktikum-2.md)
+- [Tugas](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js05-klasterisasi-hierarki/tugas.md)
+- [JS06 - ANN (Approximate Nearest Neighbors)](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-ann-approximate-nearest-neighbors.md)
+- [ANNOY](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-ann-approximate-nearest-neighbors/annoy.md): https://github.com/spotify/annoy
+- [Praktikum 1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-ann-approximate-nearest-neighbors/praktikum-1.md)
+- [FAISS](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-ann-approximate-nearest-neighbors/faiss.md)
+- [Praktikum 2](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-ann-approximate-nearest-neighbors/praktikum-2.md)
+- [HNSW](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-ann-approximate-nearest-neighbors/hnsw.md)
+- [Praktikum 3](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-ann-approximate-nearest-neighbors/praktikum-3.md)
+- [Praktikum 4](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-ann-approximate-nearest-neighbors/praktikum-4.md)
+- [Praktikum 5](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-ann-approximate-nearest-neighbors/praktikum-5.md)
+- [Praktikum 6](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-ann-approximate-nearest-neighbors/praktikum-6.md)
+- [Tugas](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-ann-approximate-nearest-neighbors/tugas.md)
+- [JS06 - Regresi](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-regresi.md)
+- [Teori Dasar](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-regresi/teori-dasar.md)
+- [Regresi Linier dan Non Linier](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-regresi/teori-dasar/regresi-linier-dan-non-linier.md)
+- [Praktikum1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-regresi/praktikum1.md)
+- [Praktikum2](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-regresi/praktikum2.md)
+- [Tugas Praktikum](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-regresi/tugas-praktikum.md)
+- [JS09 - Klasifikasi](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js09-klasifikasi.md)
+- [k-Nearest Neighbors (kNN)](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js09-klasifikasi/k-nearest-neighbors-knn.md)
+- [Naive Bayes](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js09-klasifikasi/naive-bayes.md)
+- [Praktikum 1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js09-klasifikasi/praktikum-1.md): k-Nearest Neighbors (kNN)
+- [Praktikum 2](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js09-klasifikasi/praktikum-2.md): Klasifikasi Naive Bayes dengan Data Dummy
+- [Praktikum 3](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js09-klasifikasi/praktikum-3.md): Klasifikasi Naive Bayes dengan Data Multimoda
+- [Tugas 1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js09-klasifikasi/tugas-1.md)
+- [Tugas 2](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js09-klasifikasi/tugas-2.md)
+- [JS11 - Klasifikasi 2](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js11-klasifikasi-2.md): Support Vector Machine
+- [Dasar Teori](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js11-klasifikasi-2/dasar-teori.md)
+- [Praktikum 1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js11-klasifikasi-2/praktikum-1.md): Klasifikasi SVM dengan Data Dummy Linier
+- [Praktikum 2](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js11-klasifikasi-2/praktikum-2.md): Klasifikasi SVM dengan Data Dummy Non-Linier
+- [Praktikum 3](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js11-klasifikasi-2/praktikum-3.md): SVM Data Overlapping
+- [Praktikum 4](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js11-klasifikasi-2/praktikum-4.md): Klasifikasi Citra Wajah
+- [Praktikum 5](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js11-klasifikasi-2/praktikum-5.md): Klasifikasi Citra Siang dan Malang
+- [Tugas Praktikum](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js11-klasifikasi-2/tugas-praktikum.md)
+- [JS13 - Artificial Neural Network (ANN) dan Evaluasi Classifier](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js13-artificial-neural-network-ann-dan-evaluasi-classifier.md)
+- [Praktikum 1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js13-artificial-neural-network-ann-dan-evaluasi-classifier/praktikum-1.md)
+- [Praktikum 2](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js13-artificial-neural-network-ann-dan-evaluasi-classifier/praktikum-2.md)
+- [Praktikum 3](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js13-artificial-neural-network-ann-dan-evaluasi-classifier/praktikum-3.md)
+- [Tugas Praktikum](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js13-artificial-neural-network-ann-dan-evaluasi-classifier/tugas-praktikum.md)
+- [JS14 - Convolutional Neural Network](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js14-convolutional-neural-network.md)
+- [CNN](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js14-convolutional-neural-network/cnn.md): Konsep dasar CNN
+- [Praktikum 1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js14-convolutional-neural-network/praktikum-1.md): Klasifikasi Cat vs. Dog
+- [Praktikum 2](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js14-convolutional-neural-network/praktikum-2.md): Klasifikasi Multilabel dengan dataset CIFAR
+- [Tugas Praktimum](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js14-convolutional-neural-network/tugas-praktimum.md)
+- [JS15 - Pipeline Machine Learning & Deployment](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js15-pipeline-machine-learning-and-deployment.md): Pada Modul ini, mahasiswa akan mempelajari dan mempraktikan siklus lengkap pengembangan Machine Learning (MLOps sederhana). Mahasiswa akan memulai dari melatih model klasifikasi gambar (Day vs Night)
+- [Praktikum 1](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js15-pipeline-machine-learning-and-deployment/praktikum-1.md): Klasifikasi Gambar (Day vs Night) dengan Neural Network.
+- [Praktikum 2](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js15-pipeline-machine-learning-and-deployment/praktikum-2.md): Deployment ke Hugging Face (Docker + Flask)
+- [Tugas](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js15-pipeline-machine-learning-and-deployment/tugas.md)
